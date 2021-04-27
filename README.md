@@ -8,17 +8,26 @@ face recognition, image classification, and object recognition. This final proje
 the Convolutional Neural Network (CNN) on face recognition tasks for age estimation
 and ethnicity and gender classification. 
 
-## Structure of Repoistory:
-our repoistory contain 4 folder, which are : Group-Proposal, Final-Group-Project-Report, Final-Group-Presentation, and Code.
-1. Group-Proposal folder contains Group Proposal.pdf that basically describe our plan for this project.
-2. Final-Group-Project-Report folder contains our final report for this project.
-3. Final-Group-Presentation folder contains the Final Group Preesentation.pdf, which is the powerpoint of our group presentation.
-4. Code folder contains Final_Project_Age_Ethnicity_Gender_Model.py file, which mainly use for training our model.
+## Table of Contents:
+Our repoistory contain 4 folder:
+* **Group-Proposal**
+  * *Group Proposal.pdf* -- describe our plan for the final project
+* **Final-Group-Project-Report**
+  * *Final Group Project Report* -- final report
+  * *Final Group Project Appendix*
+* **Final-Group-Presentation**
+  * *Final Group Preesentation.pdf* -- the powerpoint of our group presentation
+* **Code**
+  * *Final_Project_Age_Ethnicity_Gender_Model.py* -- training file, predict and analysis based on the trained models
+  * *Reload_Model_for_Analysis.py* -- predict and analysis based on the best models
 
 ## How It Works
- 1. Download the age_gender.csv from [AGE, GENDER AND ETHNICITY (FACE DATA) CSV](https://www.kaggle.com/nipunarora8/age-gender-and-ethnicity-face-data-csv).
- 2. In the Code folder, download the Test_Images folder which contain 6 portriat from Google Image.
- 3. Run Final_Project_Age_Ethnicity_Gender_Model.py file.
+ 1. Read the README.md in the Code folder before run Final_Project_Age_Ethnicity_Gender_Model.py file.
+ 2. Run Final_Project_Age_Ethnicity_Gender_Model.py file.
+ 3. Run Reload_Model_for_Analysis.py file.
  4. Compare the result to the final report.
  5. Look at the powerpoint in Final Group Preesentation.pdf.
+ 
+ 
+ **If any problem in code, going to Weirui Liu GitHub click [Here](https://github.com/WeiruiLiu/Final-Project-Group1).**
  
